@@ -1,0 +1,11 @@
+.appicon {
+    height: 50px;
+
+}
+.navigation {
+    display: flex;
+   margin-right: 3px;
+    justify-content: space-between;
+    flex-direction: row;
+    width: 100%;
+}

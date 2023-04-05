@@ -2,10 +2,11 @@ import React from 'react'
 import Menu from './Menu'
 import Applauncher from './Applauncher'
 import Profilepics from './Profilepics'
+import '../styles/appiconstyle.css'
 
 const Header = () => {
   return (
-    <div>
+    <div className='navigation'>
         <Menu />
         <Applauncher />
         <Profilepics />
