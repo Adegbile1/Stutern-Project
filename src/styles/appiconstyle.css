@@ -4,8 +4,6 @@
 }
 .navigation {
     display: flex;
-   margin-right: 3px;
-    justify-content: space-between;
-    flex-direction: row;
-    width: 100%;
+    justify-content: flex-end;
+    padding: 8px;
 }
